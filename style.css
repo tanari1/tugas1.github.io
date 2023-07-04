@@ -1,0 +1,153 @@
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+}
+
+p {
+    font-size: x-large;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    width: 95%;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 15px 10px
+}
+
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+li a {
+    background: #753b05;
+    color: #d4d4d4;
+}
+
+li a:hover {
+    background: #bea151;
+    color: #fff;
+}
+
+figcaption {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+iframe {
+    padding-left: 20px;
+}
+
+#nav {
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    background-color: rgb(212, 170, 92);
+    padding: 15px;
+    padding-top: 20px;
+}
+
+#nav-1 {
+    float: right;
+    padding-right: 30px;
+    font-size: xx-large;
+    text-align: center;
+    display: block;
+}
+
+#content {
+    padding-top: 120px;
+    text-align: justify;
+    max-height: fit-content;
+    padding-left: 2%;
+}
+
+#footer {
+    width: 120%;
+    height: 200px;
+    background-color: rgb(212, 170, 92);
+}
+
+#testi1 {
+    padding-left: 7%;
+    padding-right: 3%;
+}
+
+#lokasi {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.logo {
+    float: left;
+    width: 150px;
+    height: 100px;
+    padding-right: 15px;
+}
+
+.gambar-kiri {
+    float: left;
+    padding: 5px;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.menu-kanan {
+    float: right;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+.menu-kiri {
+    float: left;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    padding-left: 11%;
+}
+
+.menu-tengah {
+    float: left;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    padding-left: 15%;
+}
+
+.kanan {
+    float: right;
+    padding: 10px;
+    width: 400px;
+    height: auto;
+    padding-right: 25px;
+}
+
+.kiri {
+    float: left;
+    padding: 10px;
+    width: 400px;
+    height: auto;
+    padding-left: 25px;
+}
+
+.tengah {
+    float: left;
+    padding: 10px;
+    width: 400px;
+    height: auto;
+    padding-left: 25px;
+}
+
+.fkiri {
+    padding-left: 100px;
+    padding-right: 10%;
+    float: left;
+}
